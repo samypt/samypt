@@ -38,10 +38,3 @@ Germany (Nuremberg) · Open to hybrid/remote roles · Focus: Productive UIs, cle
 - Better frontend ergonomics: composable components, graceful loading states, and keyboard-first flows.
 
 ---
-
-### Let’s connect
-- **LinkedIn:** https://www.linkedin.com/in/vitalii-ptichkin/  
-- **Email:** _add your preferred contact here_  
-- **Pinned repos:** 👉 Check my profile for **Teamly** and **MindGuard**
-
-> If you’re building something where reliability and UX matter, I’d love to chat.
